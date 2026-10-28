@@ -1,0 +1,7 @@
+institution_code,institution_name,institution_type,programme,approved_intake,academic_year
+INST001,Sunrise Institute of Technology,Engineering,B.Tech CSE,5,2026
+INST001,Sunrise Institute of Technology,Engineering,B.Tech ECE,4,2026
+INST002,Greenfield Engineering College,Engineering,B.Tech CSE,6,2026
+INST002,Greenfield Engineering College,Engineering,B.Tech ECE,5,2026
+INST003,Riverdale Polytechnic,Polytechnic,Diploma CSE,4,2026
+INST003,Riverdale Polytechnic,Polytechnic,Diploma ECE,4,2026

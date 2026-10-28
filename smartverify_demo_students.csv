@@ -1,0 +1,33 @@
+student_record_id,apaar_id,institution_code,institution_name,programme,academic_year,admission_date
+STU001,APAR-DEMO-1001,INST001,Sunrise Institute of Technology,B.Tech CSE,2026,2026-08-01
+STU002,APAR-DEMO-1002,INST001,Sunrise Institute of Technology,B.Tech CSE,2026,2026-08-02
+STU003,APAR-DEMO-1003,INST001,Sunrise Institute of Technology,B.Tech ECE,2026,2026-08-03
+STU004,APAR-DEMO-1004,INST001,Sunrise Institute of Technology,B.Tech CSE,2026,2026-08-04
+STU005,APAR-DEMO-1005,INST001,Sunrise Institute of Technology,B.Tech ECE,2026,2026-08-05
+STU006,APAR-DEMO-1006,INST001,Sunrise Institute of Technology,B.Tech CSE,2026,2026-08-06
+STU007,APAR-DEMO-1007,INST001,Sunrise Institute of Technology,B.Tech CSE,2026,2026-08-07
+STU008,APAR-DEMO-1008,INST001,Sunrise Institute of Technology,B.Tech ECE,2026,2026-08-08
+STU009,APAR-DEMO-1009,INST001,Sunrise Institute of Technology,B.Tech CSE,2026,2026-08-09
+STU010,APAR-DEMO-1010,INST001,Sunrise Institute of Technology,B.Tech ECE,2026,2026-08-10
+STU011,APAR-DEMO-1011,INST002,Greenfield Engineering College,B.Tech CSE,2026,2026-08-01
+STU012,APAR-DEMO-1012,INST002,Greenfield Engineering College,B.Tech ECE,2026,2026-08-02
+STU013,APAR-DEMO-1013,INST002,Greenfield Engineering College,B.Tech CSE,2026,2026-08-03
+STU014,APAR-DEMO-1014,INST002,Greenfield Engineering College,B.Tech CSE,2026,2026-08-04
+STU015,APAR-DEMO-1015,INST002,Greenfield Engineering College,B.Tech ECE,2026,2026-08-05
+STU016,APAR-DEMO-1016,INST002,Greenfield Engineering College,B.Tech CSE,2026,2026-08-06
+STU017,APAR-DEMO-1017,INST002,Greenfield Engineering College,B.Tech ECE,2026,2026-08-07
+STU018,APAR-DEMO-1018,INST002,Greenfield Engineering College,B.Tech CSE,2026,2026-08-08
+STU019,APAR-DEMO-1019,INST002,Greenfield Engineering College,B.Tech CSE,2026,2026-08-09
+STU020,APAR-DEMO-1020,INST002,Greenfield Engineering College,B.Tech ECE,2026,2026-08-10
+STU021,APAR-DEMO-1021,INST003,Riverdale Polytechnic,Diploma CSE,2026,2026-08-01
+STU022,APAR-DEMO-1022,INST003,Riverdale Polytechnic,Diploma ECE,2026,2026-08-02
+STU023,APAR-DEMO-1023,INST003,Riverdale Polytechnic,Diploma CSE,2026,2026-08-03
+STU024,APAR-DEMO-1024,INST003,Riverdale Polytechnic,Diploma ECE,2026,2026-08-04
+STU025,APAR-DEMO-1025,INST003,Riverdale Polytechnic,Diploma CSE,2026,2026-08-05
+STU026,APAR-DEMO-1026,INST003,Riverdale Polytechnic,Diploma CSE,2026,2026-08-06
+STU027,APAR-DEMO-1003,INST002,Greenfield Engineering College,B.Tech CSE,2026,2026-08-11
+STU028,,INST001,Sunrise Institute of Technology,B.Tech CSE,2026,2026-08-12
+STU029,INVALID-29,INST003,Riverdale Polytechnic,Diploma ECE,2026,2026-08-13
+STU030,APAR-DEMO-1030,INST999,Unknown Demo Institution,B.Tech CSE,2026,2026-08-14
+STU031,APAR-DEMO-1031,INST001,Sunrise Institute of Technology,B.Tech CSE,2026,not-a-date
+STU032,APAR-DEMO-1032,INST003,Riverdale Polytechnic,Diploma CSE,2026,2026-08-15
